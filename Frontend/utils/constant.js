@@ -1,1 +1,1 @@
-export const HOST = "https://travel-agency-booking-system-backendd.onrender.com";
+export const HOST = import.meta.env.VITE_SERVER_URL;
