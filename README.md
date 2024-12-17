@@ -13,7 +13,7 @@ The **Travel Agency Booking System** is a web application designed to manage tra
 
 ### 1. Clone the repository
 
-
+```bash
 git clone <repository-url>
 cd <project-directory>
 2. Frontend Setup
