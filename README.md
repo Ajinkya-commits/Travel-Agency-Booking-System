@@ -13,45 +13,31 @@ The **Travel Agency Booking System** is a web application designed to manage tra
 
 ### 1. Clone the repository
 
-```bash
+
 git clone <repository-url>
 cd <project-directory>
 2. Frontend Setup
 Navigate to the frontend folder:
 
-bash
-Copy code
 cd frontend
 Install the required dependencies:
 
-bash
-Copy code
 npm install
 Build the frontend for production:
 
-bash
-Copy code
 npm run build
 To run the frontend locally:
 
-bash
-Copy code
 npm run dev
 3. Backend Setup
 Navigate to the backend folder:
 
-bash
-Copy code
 cd backend
 Install the required dependencies:
 
-bash
-Copy code
 npm install
 Run the backend locally:
 
-bash
-Copy code
 npm run dev
 Make sure to set up environment variables for the database connection (e.g., MongoDB URI, any API keys).
 
